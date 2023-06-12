@@ -1,0 +1,96 @@
+Napoli
+NAP
+7
+Liverpool
+LIV
+10
+Ajax
+AJX
+5
+Rangers
+RAN
+3
+Porto
+POR
+5
+Club Brugge
+BRU
+4
+Leverkusen
+LVK
+4
+Atletico Madrid
+ATL
+7
+Bayern Munich
+BAY
+9
+Inter Milan
+INT
+7
+Barcelona
+BAR
+8
+Viktoria Plzen
+VIK
+2
+Tottenham Hotspur
+TOT
+7
+Eintracht Frankfurt
+EIN
+5
+Sporting Lisbon
+SPO
+5
+Marseille
+MAR
+3
+Chelsea
+CHE
+7
+Milan
+MIL
+5
+RB Salzburg
+SAL
+3
+Dinamo Zagreb
+DIN
+3
+Real Madrid
+RMA
+10
+RB Leipzig
+RBL
+7
+Shakhtar Donetsk
+SHA
+4
+Celtic
+CEL
+2
+Manchester City
+MCI
+10
+Borussia Dortmund
+DOR
+6
+Sevilla
+SEV
+5
+Copenhagen
+COP
+3
+Benfica
+BEN
+7
+PSG
+PSG
+9
+Juventus
+JUV
+7
+Maccabi Haifa
+HAI
+2
